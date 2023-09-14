@@ -18,3 +18,7 @@ conda install -c conda-forge youtokentome
 # 모델 구조
 
 ![프레젠테이션1](https://github.com/KNU-BrainAI-Capstone2021/Slog/assets/79971467/6f3d5d4b-3c79-43ed-91ca-fd08fde6cd36)
+
+# 모델 커스텀
+
+![프레젠테이션2](https://github.com/KNU-BrainAI-Capstone2021/Slog/assets/79971467/fb4022a4-ee43-4152-a40e-7559eb19396b)
