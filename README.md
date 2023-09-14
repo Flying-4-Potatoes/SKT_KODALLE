@@ -14,3 +14,7 @@ split-folders ptflops adamp easydict cpython einops
 conda install -c conda-forge youtokentome
 ```
 를 먼저 설치해야 오류가 나지 않음.
+
+# 모델 구조
+
+![프레젠테이션1](https://github.com/KNU-BrainAI-Capstone2021/Slog/assets/79971467/6f3d5d4b-3c79-43ed-91ca-fd08fde6cd36)
